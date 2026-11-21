@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: e142249fd688cd34884f6000ce753396
+  - enabled: 1
+    path: Assets/Scenes/proto_1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/proto_2.unity
+    guid: 16b1e2da73d85dc458454dd2679a3cd3
+  - enabled: 1
+    path: Assets/Scenes/proto_3.unity
+    guid: 06caccfd64da0c942a74df06e0aedda9
+  - enabled: 1
+    path: Assets/Scenes/proto_4.unity
+    guid: c3dbf95c29d290b40917787b86826837
+  - enabled: 1
+    path: Assets/Scenes/proto_5.unity
+    guid: 8d73de8f4b5c433479f4d0fcd799e233
+  - enabled: 1
+    path: Assets/Scenes/proto_6.unity
+    guid: ad0a207d9239d4344b295cd3bb7cd638
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b56fe51a9d9308a459b88a6e15d8a63a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2b83eddc31b86044ac7e214382d2160, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cd41e7bfec8f54145bb00295c70d5301, type: 2}
+  m_UseUCBPForAssetBundles: 0
